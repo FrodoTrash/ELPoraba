@@ -1,42 +1,13 @@
-# Nuxt 3 Minimal Starter
+# Kalkulator pridelane dnevne energije
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## delovanje
+Uporabnik naj bi vsak dan (lahko do 7 dni nazaj ali 1 dan naprej) zabelezil podatke ![image](https://github.com/FrodoTrash/ELPoraba/assets/40771447/f93b78ce-3bbf-4b5e-9feb-543400326fbe) in hranil listo dnevnih porab. ![image](https://github.com/FrodoTrash/ELPoraba/assets/40771447/783f323d-0e1d-4e54-a0af-662d51a99f35) katere lahko uredi ali pa izbrise. Pri vnosu se razlike porab izracunajo. Na koncu vsakega meseca se tudi izpise mesecna statistika ![image](https://github.com/FrodoTrash/ELPoraba/assets/40771447/9b19017d-5b95-427b-a40f-c89fc88eb0e8)
+
+## pomebno
+- Ce zelis zapisati pridelek celetnega dneva ga odcitas naslednji dan. Zato podatek za ponedeljek vneses v torek in zapises ponedeljkov dan.
+- od urejanju dneva se posodobi samo dan, ki se ureja...(dnevi po urejenem dnevu je treba rocno posodobiti, tako, da za usakega kliknes uredi)
 
 ## Setup
-
-Make sure to install the dependencies:
-
-```bash
-# yarn
-yarn install
-
-# npm
-npm install
-
-# pnpm
-pnpm install --shamefully-hoist
-```
-
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
-npm run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+`yarn install`
+`yarn dev`
+`yarn build`
