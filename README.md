@@ -1,7 +1,9 @@
 # Kalkulator pridelane dnevne energije
 
 ## delovanje
-Uporabnik naj bi vsak dan (lahko do 7 dni nazaj ali 1 dan naprej) zabelezil podatke ![image](https://github.com/FrodoTrash/ELPoraba/assets/40771447/f93b78ce-3bbf-4b5e-9feb-543400326fbe) in hranil listo dnevnih porab. ![image](https://github.com/FrodoTrash/ELPoraba/assets/40771447/783f323d-0e1d-4e54-a0af-662d51a99f35) katere lahko uredi ali pa izbrise. Pri vnosu se razlike porab izracunajo. Na koncu vsakega meseca se tudi izpise mesecna statistika ![image](https://github.com/FrodoTrash/ELPoraba/assets/40771447/9b19017d-5b95-427b-a40f-c89fc88eb0e8)
+Uporabnik naj bi vsak dan (lahko do 7 dni nazaj ali 1 dan naprej) zabelezil podatke 
+
+in hranil listo dnevnih porab. ![image](https://github.com/FrodoTrash/ELPoraba/assets/40771447/783f323d-0e1d-4e54-a0af-662d51a99f35) katere lahko uredi ali pa izbrise. Pri vnosu se razlike porab izracunajo. Na koncu vsakega meseca se tudi izpise mesecna statistika ![image](https://github.com/FrodoTrash/ELPoraba/assets/40771447/9b19017d-5b95-427b-a40f-c89fc88eb0e8)
 
 ## pomebno
 - Ce zelis zapisati pridelek celetnega dneva ga odcitas naslednji dan. Zato podatek za ponedeljek vneses v torek in zapises ponedeljkov dan.
